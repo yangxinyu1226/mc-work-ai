@@ -1,6 +1,6 @@
 {
-    "rcon_password": "yangxinyu",
+    "rcon_password": "anypassword",
     "server_address": "localhost",
-    "player_id": "DanJiYouXi-VA1",
-    "log_file_path": "C:/Users/Administrator/Desktop/MyServer/logs/latest.log"
+    "player_id": "game-id",
+    "log_file_path": "C:/Users/Administrator/Desktop/MyServer/logs/latest.log" 
 }
