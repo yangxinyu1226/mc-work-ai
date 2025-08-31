@@ -153,7 +153,9 @@ The system will automatically process your request and construct the building ne
 # Minecraft AI 建筑大师
 
 本项目是一个基于大语言模型（LLM）的《我的世界》自动化建筑系统。它允许玩家通过简单的自然语言指令，在《我的世界》游戏中自动生成复杂的建筑和景观。
-
+目前极限测试，使用deepseek-v3大模型，可一次性建造350000+方块 他们大约需要1小时来完成。
+使用前请到deepseek官网注册获取API-KEY 建议一次生成5个以上供生成器使用。
+可以根据自己的需要，添加更改生成器，优化大模型提示词。
 ## 核心组件与文件夹结构
 
 本项目由以下几个核心Python脚本和目录组成：
