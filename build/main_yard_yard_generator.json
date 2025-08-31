@@ -1,0 +1,1407 @@
+{
+    "description": "一个20x20带丰富细节的院子，包含围栏、花坛、装饰性灌木和休息区",
+    "generated_structure": {
+        "design_components": [
+            {
+                "tool": "line",
+                "args": {
+                    "x1": 0,
+                    "y1": 0,
+                    "z1": 0,
+                    "x2": 20,
+                    "y2": 0,
+                    "z2": 0,
+                    "block_type": "minecraft:oak_fence"
+                }
+            },
+            {
+                "tool": "line",
+                "args": {
+                    "x1": 20,
+                    "y1": 0,
+                    "z1": 0,
+                    "x2": 20,
+                    "y2": 0,
+                    "z2": 20,
+                    "block_type": "minecraft:oak_fence"
+                }
+            },
+            {
+                "tool": "line",
+                "args": {
+                    "x1": 20,
+                    "y1": 0,
+                    "z1": 20,
+                    "x2": 0,
+                    "y2": 0,
+                    "z2": 20,
+                    "block_type": "minecraft:oak_fence"
+                }
+            },
+            {
+                "tool": "line",
+                "args": {
+                    "x1": 0,
+                    "y1": 0,
+                    "z1": 20,
+                    "x2": 0,
+                    "y2": 0,
+                    "z2": 0,
+                    "block_type": "minecraft:oak_fence"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 3,
+                    "y": 0,
+                    "z": 3,
+                    "size_x": 4,
+                    "size_y": 1,
+                    "size_z": 4,
+                    "block_type": "minecraft:dirt"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 13,
+                    "y": 0,
+                    "z": 3,
+                    "size_x": 4,
+                    "size_y": 1,
+                    "size_z": 4,
+                    "block_type": "minecraft:dirt"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 3,
+                    "y": 0,
+                    "z": 13,
+                    "size_x": 4,
+                    "size_y": 1,
+                    "size_z": 4,
+                    "block_type": "minecraft:dirt"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 13,
+                    "y": 0,
+                    "z": 13,
+                    "size_x": 4,
+                    "size_y": 1,
+                    "size_z": 4,
+                    "block_type": "minecraft:dirt"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 4,
+                    "block_type": "minecraft:poppy"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 5,
+                    "y": 1,
+                    "z": 4,
+                    "block_type": "minecraft:dandelion"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 5,
+                    "block_type": "minecraft:oxeye_daisy"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 5,
+                    "y": 1,
+                    "z": 5,
+                    "block_type": "minecraft:allium"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 14,
+                    "y": 1,
+                    "z": 4,
+                    "block_type": "minecraft:azure_bluet"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 15,
+                    "y": 1,
+                    "z": 4,
+                    "block_type": "minecraft:cornflower"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 14,
+                    "y": 1,
+                    "z": 5,
+                    "block_type": "minecraft:lily_of_the_valley"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 15,
+                    "y": 1,
+                    "z": 5,
+                    "block_type": "minecraft:orange_tulip"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 14,
+                    "block_type": "minecraft:pink_tulip"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 5,
+                    "y": 1,
+                    "z": 14,
+                    "block_type": "minecraft:red_tulip"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 15,
+                    "block_type": "minecraft:white_tulip"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 5,
+                    "y": 1,
+                    "z": 15,
+                    "block_type": "minecraft:blue_orchid"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 14,
+                    "y": 1,
+                    "z": 14,
+                    "block_type": "minecraft:oak_leaves"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 15,
+                    "y": 1,
+                    "z": 14,
+                    "block_type": "minecraft:oak_leaves"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 14,
+                    "y": 1,
+                    "z": 15,
+                    "block_type": "minecraft:oak_leaves"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 15,
+                    "y": 1,
+                    "z": 15,
+                    "block_type": "minecraft:oak_leaves"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 8,
+                    "y": 0,
+                    "z": 8,
+                    "size_x": 4,
+                    "size_y": 1,
+                    "size_z": 4,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 9,
+                    "y": 1,
+                    "z": 9,
+                    "size_x": 2,
+                    "size_y": 1,
+                    "size_z": 2,
+                    "block_type": "minecraft:oak_stairs"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 10,
+                    "y": 2,
+                    "z": 10,
+                    "block_type": "minecraft:oak_slab"
+                }
+            }
+        ],
+        "spatial_metadata": {
+            "bounding_box": {
+                "min_x": 0,
+                "min_y": 0,
+                "min_z": 0,
+                "max_x": 20,
+                "max_y": 2,
+                "max_z": 20
+            },
+            "dimensions": {
+                "width": 21,
+                "height": 3,
+                "depth": 21
+            }
+        }
+    },
+    "blocks": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 20,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 20,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:oak_fence"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:dirt"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:poppy"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:dandelion"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 5,
+            "block_type": "minecraft:oxeye_daisy"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 5,
+            "block_type": "minecraft:allium"
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:azure_bluet"
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:cornflower"
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 5,
+            "block_type": "minecraft:lily_of_the_valley"
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 5,
+            "block_type": "minecraft:orange_tulip"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 14,
+            "block_type": "minecraft:pink_tulip"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 14,
+            "block_type": "minecraft:red_tulip"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 15,
+            "block_type": "minecraft:white_tulip"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 15,
+            "block_type": "minecraft:blue_orchid"
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 14,
+            "block_type": "minecraft:oak_leaves"
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 14,
+            "block_type": "minecraft:oak_leaves"
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "z": 15,
+            "block_type": "minecraft:oak_leaves"
+        },
+        {
+            "x": 15,
+            "y": 1,
+            "z": 15,
+            "block_type": "minecraft:oak_leaves"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 9,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "z": 10,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 9,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": 10,
+            "y": 1,
+            "z": 10,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "z": 10,
+            "block_type": "minecraft:oak_slab"
+        }
+    ]
+}

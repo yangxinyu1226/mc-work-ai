@@ -1,0 +1,698 @@
+{
+    "description": "为院子添加丰富的装饰细节，包括雕塑、喷泉、长椅和装饰性灯具",
+    "generated_structure": {
+        "design_components": [
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "size_x": 5,
+                    "size_y": 1,
+                    "size_z": 5,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cylinder",
+                "args": {
+                    "x": 2,
+                    "y": 1,
+                    "z": 2,
+                    "radius": 1,
+                    "height": 2,
+                    "block_type": "minecraft:water"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 0,
+                    "y": 1,
+                    "z": 0,
+                    "size_x": 1,
+                    "size_y": 3,
+                    "size_z": 1,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 0,
+                    "size_x": 1,
+                    "size_y": 3,
+                    "size_z": 1,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 0,
+                    "y": 1,
+                    "z": 4,
+                    "size_x": 1,
+                    "size_y": 3,
+                    "size_z": 1,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 4,
+                    "y": 1,
+                    "z": 4,
+                    "size_x": 1,
+                    "size_y": 3,
+                    "size_z": 1,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 1,
+                    "y": 4,
+                    "z": 0,
+                    "size_x": 3,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 1,
+                    "y": 4,
+                    "z": 4,
+                    "size_x": 3,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 0,
+                    "y": 4,
+                    "z": 1,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 3,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 4,
+                    "y": 4,
+                    "z": 1,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 3,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 2,
+                    "y": 5,
+                    "z": 2,
+                    "block_type": "minecraft:lantern"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": -3,
+                    "y": 0,
+                    "z": 1,
+                    "size_x": 2,
+                    "size_y": 1,
+                    "size_z": 3,
+                    "block_type": "minecraft:oak_planks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": -3,
+                    "y": 1,
+                    "z": 1,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:oak_stairs"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": -3,
+                    "y": 1,
+                    "z": 3,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:oak_stairs"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": -4,
+                    "y": 1,
+                    "z": 2,
+                    "block_type": "minecraft:lantern"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 1,
+                    "y": 0,
+                    "z": -3,
+                    "size_x": 3,
+                    "size_y": 1,
+                    "size_z": 2,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 2,
+                    "y": 1,
+                    "z": -3,
+                    "size_x": 1,
+                    "size_y": 2,
+                    "size_z": 1,
+                    "block_type": "minecraft:stone_bricks"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 2,
+                    "y": 3,
+                    "z": -3,
+                    "block_type": "minecraft:torch"
+                }
+            }
+        ],
+        "spatial_metadata": {
+            "bounding_box": {
+                "min_x": -4,
+                "min_y": 0,
+                "min_z": -3,
+                "max_x": 4,
+                "max_y": 5,
+                "max_z": 4
+            },
+            "dimensions": {
+                "width": 9,
+                "height": 6,
+                "depth": 8
+            }
+        }
+    },
+    "blocks": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 1,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": 3,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 1,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": 3,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "z": 2,
+            "block_type": "minecraft:water"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 0,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "z": 4,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 0,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 0,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 0,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "z": 4,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "z": 4,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "z": 4,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 1,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 2,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "z": 3,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 1,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 2,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "z": 3,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "z": 2,
+            "block_type": "minecraft:lantern"
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:oak_planks"
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 1,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": -3,
+            "y": 1,
+            "z": 3,
+            "block_type": "minecraft:oak_stairs"
+        },
+        {
+            "x": -4,
+            "y": 1,
+            "z": 2,
+            "block_type": "minecraft:lantern"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": -2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": -2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": -2,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "z": -3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -3,
+            "block_type": "minecraft:stone_bricks"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "z": -3,
+            "block_type": "minecraft:torch"
+        }
+    ]
+}

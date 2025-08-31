@@ -1,0 +1,2436 @@
+{
+    "description": "一个20x20的平坦草地平台",
+    "generated_structure": {
+        "design_components": [
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "size_x": 20,
+                    "size_y": 1,
+                    "size_z": 20,
+                    "block_type": "minecraft:grass_block"
+                }
+            }
+        ],
+        "spatial_metadata": {
+            "bounding_box": {
+                "min_x": 0,
+                "min_y": 0,
+                "min_z": 0,
+                "max_x": 19,
+                "max_y": 0,
+                "max_z": 19
+            },
+            "dimensions": {
+                "width": 20,
+                "height": 1,
+                "depth": 20
+            }
+        }
+    },
+    "blocks": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 15,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 16,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 17,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 18,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 1,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 2,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 4,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 5,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 6,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 7,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 8,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 9,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 10,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 11,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 12,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 13,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 14,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 15,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 16,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 17,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 18,
+            "block_type": "minecraft:grass_block"
+        },
+        {
+            "x": 19,
+            "y": 0,
+            "z": 19,
+            "block_type": "minecraft:grass_block"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "file_name": "yard_base_flat_land_generator.json",
+        "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        }
+    },
+    {
+        "file_name": "main_yard_yard_generator.json",
+        "offset": {
+            "x": 0,
+            "y": 1,
+            "z": 0
+        }
+    },
+    {
+        "file_name": "yard_decorations_decoration_generator.json",
+        "offset": {
+            "x": 25,
+            "y": 1,
+            "z": 8
+        }
+    },
+    {
+        "file_name": "yard_lighting_lighting_generator.json",
+        "offset": {
+            "x": 10,
+            "y": 2,
+            "z": 10
+        }
+    }
+]

@@ -1,0 +1,213 @@
+{
+    "description": "为院子添加环境照明，包括路径灯和装饰性灯光",
+    "generated_structure": {
+        "design_components": [
+            {
+                "tool": "line",
+                "args": {
+                    "x1": -5,
+                    "y1": 0,
+                    "z1": 0,
+                    "x2": 5,
+                    "y2": 0,
+                    "z2": 0,
+                    "block_type": "minecraft:glowstone"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": -5,
+                    "y": 1,
+                    "z": 0,
+                    "block_type": "minecraft:lantern"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 0,
+                    "y": 1,
+                    "z": 0,
+                    "block_type": "minecraft:lantern"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 5,
+                    "y": 1,
+                    "z": 0,
+                    "block_type": "minecraft:lantern"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": -3,
+                    "y": 0,
+                    "z": 3,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:sea_lantern"
+                }
+            },
+            {
+                "tool": "cube",
+                "args": {
+                    "x": 3,
+                    "y": 0,
+                    "z": 3,
+                    "size_x": 1,
+                    "size_y": 1,
+                    "size_z": 1,
+                    "block_type": "minecraft:sea_lantern"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": -2,
+                    "y": 2,
+                    "z": -2,
+                    "block_type": "minecraft:torch"
+                }
+            },
+            {
+                "tool": "single_block",
+                "args": {
+                    "x": 2,
+                    "y": 2,
+                    "z": -2,
+                    "block_type": "minecraft:torch"
+                }
+            }
+        ],
+        "spatial_metadata": {
+            "bounding_box": {
+                "min_x": -5,
+                "min_y": 0,
+                "min_z": -2,
+                "max_x": 5,
+                "max_y": 2,
+                "max_z": 3
+            },
+            "dimensions": {
+                "width": 11,
+                "height": 3,
+                "depth": 6
+            }
+        }
+    },
+    "blocks": [
+        {
+            "x": -5,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": -4,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": -2,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": -1,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "z": 0,
+            "block_type": "minecraft:glowstone"
+        },
+        {
+            "x": -5,
+            "y": 1,
+            "z": 0,
+            "block_type": "minecraft:lantern"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "z": 0,
+            "block_type": "minecraft:lantern"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "z": 0,
+            "block_type": "minecraft:lantern"
+        },
+        {
+            "x": -3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:sea_lantern"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "z": 3,
+            "block_type": "minecraft:sea_lantern"
+        },
+        {
+            "x": -2,
+            "y": 2,
+            "z": -2,
+            "block_type": "minecraft:torch"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "z": -2,
+            "block_type": "minecraft:torch"
+        }
+    ]
+}
